@@ -1,0 +1,6 @@
+# Data (download from Kaggle instead)
+*.csv
+# Python / notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+.env
